@@ -24,12 +24,12 @@ A website whrere programmer can post any query and also answer to existing queri
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/event-management.git)  
+3. Download project from github(https://github.com/gourahrikundu/cForum)  
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/event-management.git
+    ii>git clone https://github.com/gourahrikundu/cForum
     
 4. extract files in C:\\xampp\htdocs\.
 
